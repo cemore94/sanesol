@@ -9,5 +9,4 @@ asdgergregerger
 ergergerngerngrelngerlngoregmoiwneio nweofnowien oi;
 rpp noticias informa
 que el viernes Peruuu juega el repechaje
-vamos peruu
 ?>
