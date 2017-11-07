@@ -21,5 +21,8 @@ echo " prueba para mejorar los errores";
 echo " prueba para ver tu instinto";
 echo " prueba  para si estas mejorando o superandote";
 echo " prueba cuanto antes, porque la vida es corta";
-echo " prueba muy bien"
+echo " prueba para que tengas mejores prueba";
+echo " prueba muy bien";
+echo "nunca te rindas";
+echo " sigue probando";
 ?>
