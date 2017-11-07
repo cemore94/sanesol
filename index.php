@@ -25,4 +25,5 @@ echo " prueba para que tengas mejores prueba";
 echo " prueba muy bien";
 echo "nunca te rindas";
 echo " sigue probando";
+echo " sigue y sigue tuu si puedes"
 ?>
