@@ -14,5 +14,12 @@ echo "esto me gusta";
 echo "Soy muchacho provinciano";
 echo "Me levanto muy temprano";
 echo "okey";
-echo "funciona?"
+echo "funciona?";
+echo " prueba del mas alla";
+echo " prueba si todo va bien y normal";
+echo " prueba para mejorar los errores";
+echo " prueba para ver tu instinto";
+echo " prueba  para si estas mejorando o superandote";
+echo " prueba cuanto antes, porque la vida es corta";
+echo " prueba muy bien"
 ?>
