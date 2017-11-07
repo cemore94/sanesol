@@ -13,4 +13,6 @@ echo "Te amo y te lo digo yo salserón";
 echo "esto me gusta";
 echo "Soy muchacho provinciano";
 echo "Me levanto muy temprano";
+echo "okey";
+echo "funciona?"
 ?>
